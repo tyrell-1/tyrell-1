@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hiii, I'm Tyrell :3</h1>
 
-<!--
-**tyrell-1/tyrell-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> I am a backend and Discord bot developer using Python. I am passionate about using Python to create innovative and useful applications. </h3>
+<br>
 
-Here are some ideas to get you started:
+```python
+name: str    = "Tyrell"
+age: int     = 18
+country: str = "Egypt"
+speakes: set = {'EN', 'AR'}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+skills: list = [
+    'Backend Development',
+    'Discord Bot Development',
+    'Web Scraping'
+]
+```
+
+
+## Contact Me
+
+- Tyrell#8943 on discord.
