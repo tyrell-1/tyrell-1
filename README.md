@@ -19,4 +19,4 @@ skills: list = [
 
 ## Contact Me
 
-- Tyrell#8943 on discord.
+- @tyrell.py on discord.
